@@ -1,0 +1,25 @@
+{
+  "name": "prepmate-ai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shaurya-Tech123/PrepMate-AI.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shaurya-Tech123/PrepMate-AI/issues"
+  },
+  "homepage": "https://github.com/Shaurya-Tech123/PrepMate-AI#readme",
+  "dependencies": {
+    "bcrypt": "^6.0.0",
+    "cors": "^2.8.6",
+    "dotenv": "^18.0.1",
+    "nodemailer": "^10.0.10"
+  }
+}
