@@ -1,13 +1,3 @@
-"""
-PrepMate AI — Student Dropout Risk Detection Engine
---------------------------------------------------
-Standalone prototype for the AI module of the PrepMate AI group project.
-
-IMPORTANT:
-- The bundled model is trained on synthetic demonstration data only.
-- Its scores/categories are for software testing, not real student decisions.
-- Before real use, train and validate on approved, representative data.
-"""
 
 from dataclasses import dataclass, asdict
 from typing import Dict, List, Optional
